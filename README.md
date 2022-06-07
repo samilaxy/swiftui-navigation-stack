@@ -40,7 +40,7 @@ import NavigationStack
 struct RootView: View {
     var body: some View {
         NavigationStackView {
-          //  MyHome()
+            MyHome()
         }
     }
 }
